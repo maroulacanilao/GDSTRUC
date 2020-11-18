@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c3c00eb-aac5-427f-a9b5-c7d817e52e82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kQ51L7bzjjpqP6ZnaPqI2R2xfz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Midterm" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c3c00eb-aac5-427f-a9b5-c7d817e52e82" name="Default Changelist" comment="" />
+      <created>1605619761639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605619761639</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1605621712322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.312.1360.728/-768.-286.768.1326@0.0.1920.1040" timestamp="1605621712322" />
+    <state x="640" y="176" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1605623158764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="176" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1920.1040/1920.312.1360.728/-768.-286.768.1326@0.0.1920.1040" timestamp="1605623158764" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605706733580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.312.1360.728/-768.-286.768.1326@0.0.1920.1040" timestamp="1605706733580" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605706733580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.312.1360.728/-768.-286.768.1326@0.0.1920.1040" timestamp="1605706733580" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605706733580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.312.1360.728/-768.-286.768.1326@0.0.1920.1040" timestamp="1605706733580" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605706733580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.312.1360.728/-768.-286.768.1326@0.0.1920.1040" timestamp="1605706733580" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605696775917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.312.1360.728/-768.-286.768.1326@0.0.1920.1040" timestamp="1605696775917" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1605696775917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.312.1360.728/-768.-286.768.1326@0.0.1920.1040" timestamp="1605696775917" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1605696775917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.312.1360.728/-768.-286.768.1326@0.0.1920.1040" timestamp="1605696775917" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1605696775917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.312.1360.728/-768.-286.768.1326@0.0.1920.1040" timestamp="1605696775917" />
+    <state x="496" y="256" width="928" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605626028280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="496" y="256" width="928" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.312.1360.728/-768.-286.768.1326@0.0.1920.1040" timestamp="1605626028280" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
