@@ -12,9 +12,6 @@ public class Main {
     public static void main(String[] args) {
 
 
-//        deck.push(new Card("Hearts"));
-//        deck.push(new Card("Clubs"));
-//        deck.push(new Card("Spade"));
 
         CreateCardsOnDeckWithSameName(10, " of Hearts");
         CreateCardsOnDeckWithSameName(10, " of Spades");
