@@ -1,0 +1,16 @@
+Name: By Tenth Method
+
+Notes:
+*Array should be sorted from low to high
+*only useful for arrays with 50 and up length
+*my example code is janky and full of holes but I hope it shows the idea
+
+Steps:
+1. divide the length of the array by 10 
+(example:  length = 50, so the tenth of 50 is 5)
+
+2. check every tenth of the array if its bigger than the input 
+(example: if the tenth is 5, check the index 0,5,10,15... etc if its bigger than input)
+
+3. if found, check every previous indexes until the number on that index is equal to input. stop until you reaches the previous tenth index
+(example: if the number on index 25 is bigger than the input, check index 24,23,22,21. if it reaches index 20, the input you are looking for is not here) 
